@@ -7,7 +7,7 @@ draft: false
 authors:
   - gx8w5f8sn
 hero:
-  image: ''
+  image: ../images/blog2-banner.jpg
 ---
 Esta es la prueba de un post creado en un blog basado en gatsby js y TynaCMS
 
