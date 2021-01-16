@@ -1,10 +1,10 @@
 {
-  "title": "Quien soy",
+  "title": "¿Quién soy?",
   "path": "/about",
   "blocks": [
     {
       "_template": "TitleBlock",
-      "title": "",
+      "title": "¿Quién soy?",
       "underline": true,
       "content": ""
     },
