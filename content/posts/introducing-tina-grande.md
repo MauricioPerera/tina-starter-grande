@@ -6,7 +6,7 @@ type: post
 authors:
   - gx8w5f8sn
   - scott-byrne
-draft: false
+draft: true
 hero:
   image: ../images/blog2-banner.jpg
   large: false
