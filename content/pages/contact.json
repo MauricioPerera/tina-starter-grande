@@ -1,19 +1,20 @@
 {
-  "title": "Contact",
+  "title": "Contacto",
   "path": "/contact",
   "blocks": [
     {
       "_template": "TitleBlock",
       "title": "",
       "underline": true,
-      "content": ""
+      "content": "",
+      "center": true
     },
     {
       "_template": "FormBlock",
       "name": "Contact Form",
       "fields": [
         {
-          "label": "Name",
+          "label": "Nombre",
           "inputType": "text",
           "autocomplete": "name",
           "_template": "nameInputBlock"
@@ -31,7 +32,8 @@
           "_template": "messageInputBlock"
         }
       ],
-      "content": ""
+      "content": "",
+      "recipient": "mauricio.perera@gmail.com"
     }
   ],
   "displayTitle": true
